@@ -1,4 +1,4 @@
-package com.jhomlala.better_player
+package com.prayyag.better_player
 
 import android.content.Context
 import androidx.media3.datasource.DataSource

@@ -1,4 +1,4 @@
-package com.jhomlala.better_player
+package com.prayyag.better_player
 
 import android.annotation.SuppressLint
 import android.app.NotificationChannel
@@ -15,9 +15,9 @@ import android.os.Looper
 import android.support.v4.media.MediaMetadataCompat
 import android.support.v4.media.session.MediaSessionCompat
 import android.support.v4.media.session.PlaybackStateCompat
-import com.jhomlala.better_player.DataSourceUtils.getUserAgent
-import com.jhomlala.better_player.DataSourceUtils.isHTTP
-import com.jhomlala.better_player.DataSourceUtils.getDataSourceFactory
+import com.prayyag.better_player.DataSourceUtils.getUserAgent
+import com.prayyag.better_player.DataSourceUtils.isHTTP
+import com.prayyag.better_player.DataSourceUtils.getDataSourceFactory
 import io.flutter.plugin.common.EventChannel
 import io.flutter.view.TextureRegistry.SurfaceTextureEntry
 import io.flutter.plugin.common.MethodChannel
