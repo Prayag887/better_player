@@ -1,4 +1,4 @@
-package com.prayyag.better_player
+package com.prayag.better_player
 
 import android.content.Context
 import android.net.Uri
@@ -6,9 +6,9 @@ import android.util.Log
 import androidx.media3.datasource.DataSpec
 import androidx.media3.datasource.HttpDataSource
 import androidx.media3.datasource.cache.CacheWriter
-import com.prayyag.better_player.DataSourceUtils.isHTTP
-import com.prayyag.better_player.DataSourceUtils.getUserAgent
-import com.prayyag.better_player.DataSourceUtils.getDataSourceFactory
+import com.prayag.better_player.DataSourceUtils.isHTTP
+import com.prayag.better_player.DataSourceUtils.getUserAgent
+import com.prayag.better_player.DataSourceUtils.getDataSourceFactory
 import androidx.work.WorkerParameters
 import androidx.work.Worker
 import java.lang.Exception

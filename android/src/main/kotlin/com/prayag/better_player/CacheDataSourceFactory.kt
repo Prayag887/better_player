@@ -1,4 +1,4 @@
-package com.prayyag.better_player
+package com.prayag.better_player
 
 import android.content.Context
 import androidx.media3.datasource.DataSource
